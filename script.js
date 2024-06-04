@@ -11,7 +11,7 @@
       $(this).css({'color':'gray'});
 
     });
-// For Footer
+// For Footer -1
     $('.list-group-item').mouseenter(function(){
      
       $(this).css({'color':'white'});
